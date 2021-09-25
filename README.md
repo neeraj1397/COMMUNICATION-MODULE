@@ -1,0 +1,2 @@
+# COMMUNICATION-MODULE
+A module should be designed that takes analog inputs from sensors, Ethernet  commands  from  PLC  and  produces  required  outputs  in  the  form  of  TTL  logic  for  former input and serial output for latter input. The proposed solution is realized using  Raspberry Pis as central parts of module which is equipped with other peripherals to  behave  as  a  complete  working  module.  The  module  is  intended  to  be  used  in  submarines to communicate between PLCs and antennas and also drive large relays in  response to sensor data.
